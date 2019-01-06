@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/Plortinus/element-china-area-data#readme",
   "dependencies": {
-    "china-area-data": "^4.0.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
